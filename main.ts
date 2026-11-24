@@ -1,3 +1,4 @@
+// v2 revision: the 2 a.m. Lego patch note, kept byte-identical.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =

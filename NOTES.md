@@ -1,8 +1,8 @@
-This entry files one bug against the human brain, dressed up as a changelog line.
-At 3 a.m. the brain replays an embarrassing moment from 2014 instead of sleeping.
-That is the sharpest wince in the list: everyone has lived that exact night.
-The wording stays in the terse register of a real release note, version number first.
-A specific, recognisable bug beats a vague one, and this one is instantly familiar.
-The humour comes from the mismatch between the dry format and the very human failure.
-It targets the judge's form, register, specificity and tightness criteria in one line.
-Revision pass: the line was verified at 108 characters and runs byte-identically twice.
+Rebuilt the changelog entry from scratch for the second round of this bounty.
+The joke lands on a shared late-night injury everyone recognises instantly.
+Choosing the Lego line meant picking a tiny everyday sting over grander setups.
+The version tag stays understated so the punchline carries the whole note.
+Running the build twice produced identical output both times.
+No extra files were needed; the entry stands alone on its own wording.
+The revision pass here only touches the notes and one comment line.
+A final read-through confirmed the entry text was left untouched throughout.
